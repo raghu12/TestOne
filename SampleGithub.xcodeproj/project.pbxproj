@@ -415,7 +415,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SampleGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -426,7 +426,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SampleGithub/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithub;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithub;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -437,7 +437,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = SampleGithubTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithubTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithubTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SampleGithub.app/SampleGithub";
 			};
@@ -449,7 +449,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = SampleGithubTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithubTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithubTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SampleGithub.app/SampleGithub";
 			};
@@ -460,7 +460,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = SampleGithubUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithubUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithubUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = SampleGithub;
 			};
@@ -471,7 +471,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = SampleGithubUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Quallent.SampleGithubUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Sample.SampleGithubUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = SampleGithub;
 			};
