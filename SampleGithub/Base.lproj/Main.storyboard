@@ -17,12 +17,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="First Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UGu-Wd-IXc">
-                                <rect key="frame" x="383" y="68" width="197" height="40"/>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Second Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UGu-Wd-IXc">
+                                <rect key="frame" x="20" y="69" width="197" height="40"/>
                                 <color key="backgroundColor" red="0.98039215690000003" green="0.8980392157" blue="0.82745098039999998" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="40" id="dab-EA-BHH"/>
-                                    <constraint firstAttribute="width" constant="197" id="ik7-V1-BQy"/>
+                                    <constraint firstAttribute="height" constant="40" id="P0w-M0-acQ"/>
+                                    <constraint firstAttribute="width" constant="197" id="v96-Wd-3Iy"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
@@ -31,8 +31,8 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <constraints>
-                            <constraint firstItem="UGu-Wd-IXc" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="48" id="cL9-r1-QMJ"/>
-                            <constraint firstAttribute="trailing" secondItem="UGu-Wd-IXc" secondAttribute="trailing" constant="20" id="ul3-Xz-yTW"/>
+                            <constraint firstItem="UGu-Wd-IXc" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="49" id="UyK-JO-HLX"/>
+                            <constraint firstItem="UGu-Wd-IXc" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" constant="20" id="vrL-xM-VKw"/>
                         </constraints>
                     </view>
                 </viewController>
