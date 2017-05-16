@@ -23,6 +23,8 @@
     //Example One
     
     //Example two
+    
+    NSLog(@"This is example Two");
 }
 
 - (void)didReceiveMemoryWarning {
