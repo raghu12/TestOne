@@ -25,6 +25,7 @@
     //Example two
     
     NSLog(@"This is example One");
+    NSLog(@"This is example Two");
 }
 
 - (void)didReceiveMemoryWarning {
